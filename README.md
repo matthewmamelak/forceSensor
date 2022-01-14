@@ -1,1 +1,2 @@
 # forceSensor
+In this experiment, I worked with a team of 5 other students to create and design a rocket engine test stand for the Queen's Rocket Engineering Team to use. We mathematically modelled the test stand on a CAD platform called SOLIDWORKS. The code provided in Arduino calculates the force of an applied object on the sensor. In this project, we were calculating the thrust exerted by the rocket's engine, and ensured our stand could withstand this applied force. 
